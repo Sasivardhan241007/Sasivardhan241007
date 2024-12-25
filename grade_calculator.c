@@ -65,7 +65,7 @@ int main() {
       printf("your Grade is F \n");
       printf("Failed. Its a tough spot, but do not give up. Learn from this and try again with determination to not to fail again! \n");
       break;
-
-    return 0;
-}
+    }
+    
+return 0;
 }
