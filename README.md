@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...obviously PROGRAMMING,.....
 - 🌱 I’m currently learning ...As you have guessed it!...PROGRAMMING.
 - 💞️ I’m looking to collaborate on ...professional training based on of Programming & Building projects.
-- 📫 How to reach me ...sasivardhantummala@gmail.com ,contact in case of any Help/collab/projrct building!
+- 📫 How to reach me ...sasivardhantummala@gmail.com ,contact in case of any Help/collab/project building!
 - 😄 Pronouns: ...MALE (# always Young & Fit)
 - ⚡ Fun fact: ...I'm considerably Tall & Uniquely talented than most people around me.
 
